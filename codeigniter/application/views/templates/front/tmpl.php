@@ -102,6 +102,7 @@
                         <img src="<?php echo $document['img_url']; ?>logo/ico_youtube.png"><a href="<?php echo $businessAreas->youtub_areas; ?>">&nbsp;&nbsp;Youtube</a>
                     </li>
                 </ul>
+                <a href="http://online.gov.vn/HomePage/CustomWebsiteDisplay.aspx?DocId=27595" target="_blank"><img width="100px" height="35px" class="preheader_img" src="<?php echo Util::loadImg('/templates/front/img/congthuong.png')?>"></a>
             </div>
         </div>
         <div class="wrap_contain coppyright">
